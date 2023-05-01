@@ -1,0 +1,4 @@
+Total time taken for 1 thread = 11930.4 seconds
+Total time taken for 2 threads = 10476 seconds
+Total time taken for 4 threads = 8213.76 seconds
+Total time taken for 8 threads = 7427.52 seconds

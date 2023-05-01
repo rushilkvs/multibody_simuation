@@ -1,0 +1,27 @@
+System specification
+OS: Windows 11 (Windows Subsystem Linux) (wsl2)
+Cores: 8 cores with hyperthreading
+Processor: Ryzen 7 5000 series (Ryzen 7 5800h)
+Clock speed: 3.2 GHz
+
+For 1 threads:
+Number of steps = 720000
+Total time taken = 11930.4 seconds
+Average time taken for each step = 0.01657
+
+For 2 threads:
+Number of steps = 720000
+Total time taken = 10476 seconds
+Average time taken for each step = 0.01455
+
+For 4 threads:
+Number of steps = 720000
+Total time taken = 8213.76 seconds
+Average time taken for each step = 0.011408
+
+For 8 threads:
+Number of steps = 720000
+Total time taken = 7427.52 seconds
+Average time taken for each step = 0.010316
+
+
